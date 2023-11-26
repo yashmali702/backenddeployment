@@ -1,11 +1,11 @@
 {
-  "name": "backendb_c",
+  "name": "backenddeployment",
   "version": "1.0.0",
-  "description": "b_c model backend",
+  "description": "backend with proper file structure",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "yash",
+  "author": "",
   "license": "ISC"
 }
